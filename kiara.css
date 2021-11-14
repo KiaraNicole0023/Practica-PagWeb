@@ -1,0 +1,30 @@
+body{
+  background-color: pink
+}
+p{
+  font-size: 25px;
+  color: #21618C ;
+}
+h1{
+  font-size: 50px;
+  color: red
+}
+h2,h3,h4,h5{
+  font-size: 35px;
+  color: red
+}
+img{
+  height: 400px;
+  width: 500px;
+  border-style: double;
+  border-color: red
+}
+video{
+height: 500px;
+width: 600px;
+}
+a{
+font-size: 20px;
+color: purple;
+text-decoration: none;
+}
